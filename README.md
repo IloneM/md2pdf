@@ -1,4 +1,4 @@
-# pdf-double-page
+# md2pdf
 
 Transform a markdown file (.md) into a pdf
 
